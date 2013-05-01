@@ -1,0 +1,4 @@
+- fastClick (http://ftlabs.github.io/fastclick/)
+- add share buttons (twitter & co)
+- index
+- categories
