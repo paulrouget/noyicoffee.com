@@ -1,5 +1,0 @@
-- fastClick (http://ftlabs.github.io/fastclick/)
-- add share buttons (twitter & co)
-- index
-- categories
-- twitter meta data (see paulrouget.com)
